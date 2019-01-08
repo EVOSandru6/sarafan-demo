@@ -20,6 +20,7 @@ public class User {
     private String email;
     private String gender;
     private String locale;
+
     private LocalDateTime lastVisit;
 
     public String getId() {
